@@ -4,7 +4,7 @@ library(viridis)
 library(cowplot)
 
 library(readr)
-cleaned_root <- read_csv("clean_true_root.csv")
+cleaned_root <- readRDS("clean_true_root.rda")
 
 theme_tsl <- function(base_size = 11, base_family = "") {
   theme_grey(base_size = base_size, base_family = base_family) %+replace%
