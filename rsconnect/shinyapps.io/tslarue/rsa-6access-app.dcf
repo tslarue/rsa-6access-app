@@ -1,0 +1,12 @@
+name: rsa-6access-app
+title: rsa-6access-app
+username:
+account: tslarue
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6294519
+bundleId: 5901549
+url: https://tslarue.shinyapps.io/rsa-6access-app/
+when: 1652423325.26085
+asMultiple: FALSE
+asStatic: FALSE
